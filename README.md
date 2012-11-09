@@ -12,4 +12,4 @@ Either run the shellscript without a parameter to export or with 'import' parame
 `./dumpdb.sh` to make a dump
 
 ### import
-`./dumpdb.sh import`
+`./dumpdb.sh import` to import a dump
